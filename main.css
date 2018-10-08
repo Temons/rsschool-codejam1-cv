@@ -1,0 +1,77 @@
+body {max-width: 1024px;
+	position: relative;
+	margin: 0 auto;
+}
+
+h1 {color: black;
+	text-align: center;
+	padding: 200px 0 0 0;
+	text-transform: uppercase; 
+	}
+
+header h2 {text-align: center;}
+
+header {
+	height: 500px;
+	background-image: url('pic-head.jpg');
+	background-size: cover;		
+	}
+
+footer {
+	width: 100%;
+	line-height: 50px;
+	height: 220px;
+	text-align: center;
+	}
+
+.col-3{
+height: 50px;
+background-color: gray; 
+}
+ 
+
+section .col-8 {
+	margin: 50px auto;
+
+}
+
+/* .avatar{
+	width: 100px;
+	height: 100px;
+	margin: 50px auto 40px;
+	border-radius: 100%;
+	background-image: url('pic-ava.jpg');
+}
+ */
+/* .description{
+	text-align: center;
+	list-style-type: none;
+} */
+
+section p{
+	margin: 0 0;
+}
+
+h5 {
+	text-align: center;
+}
+
+	
+
+.secBackAbout {
+	width: 100%;
+	background-color: #F5F5F4;
+}
+
+.secBackSkill{
+	margin: 40px auto;
+}
+
+.secBackExp {
+	background-color: #F5F5F4;
+}
+
+.wrapper {
+	position: relative;
+	max-width: 1024px;
+}
